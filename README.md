@@ -1,6 +1,5 @@
 # *faced*
-
-🚀 😏 CPU (Near) Real Time face detection
+Real Time face detection
 
 <p align="center">
   <img src="examples/demo_yolo.gif"/>
